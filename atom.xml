@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>哈哈哈</title>
+  
+  <subtitle>我想开了</subtitle>
+  <link href="http://example.com/atom.xml" rel="self"/>
+  
+  <link href="http://example.com/"/>
+  <updated>2023-11-20T06:21:53.234Z</updated>
+  <id>http://example.com/</id>
+  
+  <author>
+    <name>某低手菜鸡</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>初出茅庐</title>
+    <link href="http://example.com/2023/11/12/hello-world/"/>
+    <id>http://example.com/2023/11/12/hello-world/</id>
+    <published>2023-11-12T10:08:38.307Z</published>
+    <updated>2023-11-20T06:21:53.234Z</updated>
+    
+    <content type="html"><![CDATA[<p>博客初建，尚未完善。作为第一篇文章，就以“初出茅庐”为题，浅谈这几个在学校月的感受。</p><p>##生活<br>还行，就是宿舍有点low.</p><p>##学习<br>一般般，就是需要学的确实太多了，Math or C,that is the question.</p><p>##游戏<br>针不戳，从进校前100个小时的打劫，到如今的400多个小时，爽！</p><p>##总结<br>“遇事不决，可问春风”，希望我能在学习和娱乐中不负青春，奋斗前行，干就完了！</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;博客初建，尚未完善。作为第一篇文章，就以“初出茅庐”为题，浅谈这几个在学校月的感受。&lt;/p&gt;
+&lt;p&gt;##生活&lt;br&gt;还行，就是宿舍有点low.&lt;/p&gt;
+&lt;p&gt;##学习&lt;br&gt;一般般，就是需要学的确实太多了，Math or C,that is the question.&lt;/p</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
