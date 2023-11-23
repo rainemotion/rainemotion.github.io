@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2023-11-23T15:47:06.257Z</updated>
+  <updated>2023-11-23T15:50:28.340Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -21,17 +21,18 @@
     <link href="http://example.com/2023/11/12/hello-world/"/>
     <id>http://example.com/2023/11/12/hello-world/</id>
     <published>2023-11-12T10:08:38.307Z</published>
-    <updated>2023-11-23T15:47:06.257Z</updated>
+    <updated>2023-11-23T15:50:28.340Z</updated>
     
-    <content type="html"><![CDATA[<p>博客初建，尚未完善。作为第一篇文章，就以“初出茅庐”为题，浅谈这几个月在学校的感受。</p><p>-<em><strong>生活</strong></em></p><p>还行，就是宿舍有点low.</p><p>-<em><strong>学习</strong></em></p><p>一般般，就是需要学的确实太多了，Math or C,that is the question.</p><p>-<em><strong>游戏</strong></em></p><p>针不戳，从进校前100个小时的打劫，到如今的400多个小时，爽！</p><p>-<em><strong>总结</strong></em></p><p>“遇事不决，可问春风”，希望我能在学习和娱乐中不负青春，奋斗前行，干就完了！    </p>]]></content>
+    <content type="html"><![CDATA[<p>cover: &#x2F;img&#x2F;01.jpg</p><hr><p>博客初建，尚未完善。作为第一篇文章，就以“初出茅庐”为题，浅谈这几个月在学校的感受。</p><p>-<em><strong>生活</strong></em></p><p>还行，就是宿舍有点low.</p><p>-<em><strong>学习</strong></em></p><p>一般般，就是需要学的确实太多了，Math or C,that is the question.</p><p>-<em><strong>游戏</strong></em></p><p>针不戳，从进校前100个小时的打劫，到如今的400多个小时，爽！</p><p>-<em><strong>总结</strong></em></p><p>“遇事不决，可问春风”，希望我能在学习和娱乐中不负青春，奋斗前行，干就完了！    </p>]]></content>
     
     
       
       
-    <summary type="html">&lt;p&gt;博客初建，尚未完善。作为第一篇文章，就以“初出茅庐”为题，浅谈这几个月在学校的感受。	&lt;/p&gt;
+    <summary type="html">&lt;p&gt;cover: &amp;#x2F;img&amp;#x2F;01.jpg	&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;博客初建，尚未完善。作为第一篇文章，就以“初出茅庐”为题，浅谈这几个月在学校的感受。	&lt;/p&gt;
 &lt;p&gt;-&lt;em&gt;&lt;strong&gt;生活&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;还行，就是宿舍有点low.	&lt;/p&gt;
-&lt;p&gt;-&lt;em&gt;&lt;strong&gt;学习&lt;/strong&gt;&lt;/e</summary>
+&lt;p&gt;还行，就是宿舍</summary>
       
     
     
