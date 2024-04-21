@@ -1,3 +1,4 @@
+http://example.com/2024/04/21/sad/
 http://example.com/2023/11/12/hello-world/
 http://example.com/categories/index.html
 http://example.com/tags/index.html
