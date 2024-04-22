@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2024-04-22T12:02:24.985Z</updated>
+  <updated>2024-04-22T12:06:21.909Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -21,15 +21,15 @@
     <link href="http://example.com/2024/04/22/Extremly%20depressed/"/>
     <id>http://example.com/2024/04/22/Extremly%20depressed/</id>
     <published>2024-04-22T11:39:09.047Z</published>
-    <updated>2024-04-22T12:02:24.985Z</updated>
+    <updated>2024-04-22T12:06:21.909Z</updated>
     
-    <content type="html"><![CDATA[<p>cover: &#x2F;img&#x2F;sad.jpg</p><h2 id="title：伤心的一天"><a href="#title：伤心的一天" class="headerlink" title="title：伤心的一天"></a>title：伤心的一天</h2><p><strong>郁闷</strong>！😥(´。＿。｀)</p><p><strong>不解</strong>！😥::&gt;_&lt;::</p><p><strong>伤心</strong>！🥲ಥ_ಥ</p>]]></content>
+    <content type="html"><![CDATA[<p>cover: &#x2F;img&#x2F;sad.jpg</p><h2 id="title-伤心的一天"><a href="#title-伤心的一天" class="headerlink" title="title: 伤心的一天"></a>title: 伤心的一天</h2><p><strong>郁闷</strong>！😥(´。＿。｀)</p><p><strong>不解</strong>！😭::&gt;_&lt;::</p><p><strong>伤心</strong>！🥲ಥ_ಥ</p>]]></content>
     
     
       
       
     <summary type="html">&lt;p&gt;cover: &amp;#x2F;img&amp;#x2F;sad.jpg&lt;/p&gt;
-&lt;h2 id=&quot;title：伤心的一天&quot;&gt;&lt;a href=&quot;#title：伤心的一天&quot; class=&quot;headerlink&quot; title=&quot;title：伤心的一天&quot;&gt;&lt;/a&gt;title：伤心的一天&lt;/h2&gt;</summary>
+&lt;h2 id=&quot;title-伤心的一天&quot;&gt;&lt;a href=&quot;#title-伤心的一天&quot; class=&quot;headerlink&quot; title=&quot;title: 伤心的一天&quot;&gt;&lt;/a&gt;title: 伤心的一天&lt;/h</summary>
       
     
     
