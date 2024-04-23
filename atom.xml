@@ -3,11 +3,11 @@
   <title>只是无聊而已</title>
   
   <subtitle>我想静静</subtitle>
-  <link href="http://example.com/atom.xml" rel="self"/>
+  <link href="http://rainemotion.github.io/atom.xml" rel="self"/>
   
-  <link href="http://example.com/"/>
+  <link href="http://rainemotion.github.io/"/>
   <updated>2024-04-22T12:24:05.684Z</updated>
-  <id>http://example.com/</id>
+  <id>http://rainemotion.github.io/</id>
   
   <author>
     <name>好大一杯水果茶</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>伤心的一天</title>
-    <link href="http://example.com/2024/04/22/Extremly%20depressed/"/>
-    <id>http://example.com/2024/04/22/Extremly%20depressed/</id>
+    <link href="http://rainemotion.github.io/2024/04/22/Extremly%20depressed/"/>
+    <id>http://rainemotion.github.io/2024/04/22/Extremly%20depressed/</id>
     <published>2024-04-22T11:39:09.047Z</published>
     <updated>2024-04-22T12:24:05.684Z</updated>
     
@@ -41,8 +41,8 @@
   
   <entry>
     <title>初出茅庐</title>
-    <link href="http://example.com/2023/11/12/hello-world/"/>
-    <id>http://example.com/2023/11/12/hello-world/</id>
+    <link href="http://rainemotion.github.io/2023/11/12/hello-world/"/>
+    <id>http://rainemotion.github.io/2023/11/12/hello-world/</id>
     <published>2023-11-12T10:08:38.307Z</published>
     <updated>2023-11-23T16:18:02.404Z</updated>
     
