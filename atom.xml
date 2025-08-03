@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>陈菲</title>
+  <title>只是无聊而已</title>
   
-  <subtitle>我想开了</subtitle>
+  <subtitle>我想不开</subtitle>
   <link href="http://rainemotion.github.io/atom.xml" rel="self"/>
   
   <link href="http://rainemotion.github.io/"/>
@@ -10,7 +10,7 @@
   <id>http://rainemotion.github.io/</id>
   
   <author>
-    <name>好大一桶水果茶</name>
+    <name>雨</name>
     
   </author>
   
